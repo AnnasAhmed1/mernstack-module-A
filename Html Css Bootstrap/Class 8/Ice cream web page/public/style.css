@@ -1,0 +1,115 @@
+.frontpage{
+    background: radial-gradient(rgb(10, 10, 126), rgb(3, 3, 70));
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* .frontpage{
+    display: flex;
+} */
+
+.header{
+    display:flex;
+    padding-top: 1em;
+}
+nav{
+    flex: 1;
+    text-align: right;
+    padding: 1em;
+    color: white;
+}
+
+
+nav ul li{
+    display: inline-block;
+    margin: 0px 20px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.logo{
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-top: 0em;
+}
+
+
+.logo img{
+    padding: 0px 0px 0px 20px;
+    transform: rotate(-30deg);
+    color: white;
+}
+.logoname{
+    display: inline;
+    color: white;
+    padding: 0px 0px 0px 10px;
+}
+
+
+.main{
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.slogan{
+    padding: 1.15em 2em 1em 2em;
+    font-size: 70px;
+    color: white;
+
+}
+.heading{
+    line-height: 60px;
+}
+
+
+.para1{
+    padding-top: 20px;
+    font-size: 15px;
+    line-height: 10px;
+}
+.para2{
+    font-size: 15px;
+    line-height: 30px;
+}
+.below{
+    flex: 1;
+    text-align: center;
+    padding: 1.60em;
+    padding-bottom: 1.10em;
+    background-color: rgb(68, 68, 165);
+}
+
+.below ul li{
+    display: inline-block;
+    margin: 0px 90px;
+    color: black;
+    font-style: bold;
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+/* .para1::after{
+    content: "\a";
+} */
+/* .header{
+    display: flex;
+} */
+
+/* 
+nav ul{
+    display: inline-block;
+} */

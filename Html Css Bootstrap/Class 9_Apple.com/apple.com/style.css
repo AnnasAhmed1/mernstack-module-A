@@ -1,0 +1,233 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.navbar{
+    background-color: black;
+    padding: 10px;
+}
+.navbar .nav{
+    margin: 0 5%;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 1.5%;
+}
+.navbar i{
+    background-color: white;
+    
+}
+/* .firstpic{
+    background-color: aliceblue;
+}
+.navbar2{
+
+    text-align: center;
+    margin: 8%;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 2em;
+}
+.buynow a{
+    font-size: 0.65em;
+    padding: 0px 15px;
+    text-align: justify;
+}
+.navbar2{
+    margin: 0;
+    padding: 0;
+} */
+.first-pic{
+    background-image: url(./picture/iphone\ 13\ pro\ full.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.first-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+}
+.first-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+}
+.first-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    text-decoration: none;
+}
+
+.second-pic{
+    background-image: url(./picture/iphone\ 13\ half.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.second-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+    color: white;
+}
+.second-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+    color: pink;
+}
+.second-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    color: blue;
+    text-decoration: none;
+}
+
+.third-pic{
+    background-image: url(./picture/velentine\ mobile.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.third-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+    color: #602D62;
+}
+.third-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+    color: #602D62;
+}
+.third-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    color: blue;
+    text-decoration: none;
+}
+
+.fourth-pic{
+    background-image: url(./picture/tile\ watch\ promo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.fourth-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+    color: #602D62;
+}
+.fourth-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+    color: #602D62;
+}
+.fourth-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    color: blue;
+    text-decoration: none;
+}
+
+.fifth-pic{
+    background-image: url(./picture/orange\ background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.fifth-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+    color: #602D62;
+}
+.fifth-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+    color: #602D62;
+}
+.fifth-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    color: blue;
+    text-decoration: none;
+}
+.sixth-pic{
+    background-image: url(./picture/three\ watches\ promo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.sixth-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+    color: #602D62;
+}
+.sixth-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+    color: #602D62;
+}
+.sixth-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    color: blue;
+    text-decoration: none;
+}
+
+.seventh-pic{
+    background-image: url(./picture/watch\ backgroyund.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.seventh-pic-text{
+    text-align: center;
+    padding: 1.0em;
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-emphasis: bold;
+    font-size: 2.2em;
+    color: white;
+}
+.seventh-pic-text .p2{
+    font-size: 0.8em;
+    padding: 0.3em 0em 0.3em;
+    color: white;
+}
+.seventh-pic-text a{
+    padding: 0 10px;
+    font-size: 0.5em;
+    color: blue;
+    text-decoration: none;
+}

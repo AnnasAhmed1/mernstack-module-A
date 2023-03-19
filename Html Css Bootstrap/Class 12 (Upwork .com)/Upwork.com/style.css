@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 10px 40px;
+}
+nav ul li{
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+}
+.slogan{
+    display: flex;
+    font-size: 5em;
+    color: green;
+    padding: 50px 50px 0 50px;
+}
+.slogan_bottom{
+    padding: 10px 50px;
+    color: gray;
+    font-size: 1.3em;
+}
+.find_button{
+    padding: 10px 0px 0px 50px;
+
+}
